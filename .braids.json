@@ -680,6 +680,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxt.git",
       "branch": "master",
       "revision": "6064a219fad468155833862f51a8332bf65ad46d"
+    },
+    "lib32-libxtst": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxtst.git",
+      "branch": "master",
+      "revision": "b37fac122613228027b4ad55c93149c677e5c61d"
     }
   }
 }
