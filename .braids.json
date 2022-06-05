@@ -440,6 +440,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libproxy.git",
       "branch": "master",
       "revision": "fc4b41b8e807741ec687d5c1bac118d28c1a32ce"
+    },
+    "lib32-libpsl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpsl.git",
+      "branch": "master",
+      "revision": "e896ef5735e9000ad47c0833baca5c9cc5488a60"
     }
   }
 }
