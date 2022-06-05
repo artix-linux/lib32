@@ -175,6 +175,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gettext.git",
       "branch": "master",
       "revision": "7bff8dac205d79668b69a3158d1647abe20920b3"
+    },
+    "lib32-giflib": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-giflib.git",
+      "branch": "master",
+      "revision": "baff775c18936a36abe9d71b5043ec673630e427"
     }
   }
 }
