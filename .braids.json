@@ -160,6 +160,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fribidi.git",
       "branch": "master",
       "revision": "3aee40ae9cff83464d4ac021963e51db90bc7f4d"
+    },
+    "lib32-gamemode": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gamemode.git",
+      "branch": "master",
+      "revision": "0fd940ec7e59c4bc8c6d63c741d765c140770ee8"
     }
   }
 }
