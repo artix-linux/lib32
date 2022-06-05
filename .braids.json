@@ -810,6 +810,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-popt.git",
       "branch": "master",
       "revision": "1a154d2a9309b43a4b4ef5f8027226c5cce9a3ac"
+    },
+    "lib32-portaudio": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-portaudio.git",
+      "branch": "master",
+      "revision": "d68603378c3e33c85e8d52fd1cba23863e243d61"
     }
   }
 }
