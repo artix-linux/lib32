@@ -305,6 +305,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcups.git",
       "branch": "master",
       "revision": "d28a46ca27a18d011bb2265e5ede54f3568b2067"
+    },
+    "lib32-libdatrie": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdatrie.git",
+      "branch": "master",
+      "revision": "ace46d9f7d56fff37083780040fa481c8ca0de06"
     }
   }
 }
