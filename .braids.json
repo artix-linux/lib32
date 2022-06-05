@@ -825,6 +825,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-rest.git",
       "branch": "master",
       "revision": "8bbeca81462d614bb355cec646dc298bb25bf6ac"
+    },
+    "lib32-sdl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sdl.git",
+      "branch": "master",
+      "revision": "69027592f3cbdd0a1b93bb05df4ece6c14414408"
     }
   }
 }
