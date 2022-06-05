@@ -770,6 +770,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-p11-kit.git",
       "branch": "master",
       "revision": "f71a5ed5540ec448229d7dae2d7e96b5273ae515"
+    },
+    "lib32-pam": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pam.git",
+      "branch": "master",
+      "revision": "d1901163f30e4cdde6a807f415f9e52de84a6beb"
     }
   }
 }
