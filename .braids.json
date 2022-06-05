@@ -65,6 +65,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cdparanoia.git",
       "branch": "master",
       "revision": "fb15a305eac3c4953d42169575a59bb3a1fcb74a"
+    },
+    "lib32-celt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-celt.git",
+      "branch": "master",
+      "revision": "9c28089d5c397bfb2938f94214dbc5dd257aacb3"
     }
   }
 }
