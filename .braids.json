@@ -430,6 +430,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpciaccess.git",
       "branch": "master",
       "revision": "1b7578db01007afdfa96f7cbfe25adcdd1767305"
+    },
+    "lib32-libpng": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpng.git",
+      "branch": "master",
+      "revision": "25bc8c668c9e02abb00d7507128c89821954ccc7"
     }
   }
 }
