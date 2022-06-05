@@ -800,6 +800,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pixman.git",
       "branch": "master",
       "revision": "74e26b1b62c765c175f9d74fef0fbfb9c52270c8"
+    },
+    "lib32-polkit": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-polkit.git",
+      "branch": "master",
+      "revision": "e85abc7c4d4256814b15ad7d63ad27d333167b0b"
     }
   }
 }
