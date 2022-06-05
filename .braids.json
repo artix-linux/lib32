@@ -310,6 +310,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdatrie.git",
       "branch": "master",
       "revision": "ace46d9f7d56fff37083780040fa481c8ca0de06"
+    },
+    "lib32-libdrm": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdrm.git",
+      "branch": "master",
+      "revision": "431f947ad67bfa0a617c3686ba7a70d3e3abaa3b"
     }
   }
 }
