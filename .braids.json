@@ -295,6 +295,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcanberra.git",
       "branch": "master",
       "revision": "26ef42d06b6f95b72a9864c4f110d41437844c25"
+    },
+    "lib32-libcap": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcap.git",
+      "branch": "master",
+      "revision": "aab0924cdb900302bca9ef7981e02aefa3104ffa"
     }
   }
 }
