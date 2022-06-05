@@ -25,6 +25,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-artix-archlinux-support.git",
       "branch": "master",
       "revision": "e61a436398946cf3f7437cd7fc6d8b125566d3c7"
+    },
+    "lib32-atk": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-atk.git",
+      "branch": "master",
+      "revision": "bf1b2eed19bb23540d5361258edb7c1b5e13adec"
     }
   }
 }
