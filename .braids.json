@@ -320,6 +320,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdv.git",
       "branch": "master",
       "revision": "5bcc42f2459f23a3adafce8bf8837524ab1bcc9a"
+    },
+    "lib32-libelf": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libelf.git",
+      "branch": "master",
+      "revision": "b67fbba3626db0c6cc4d8971b4226eaecce68ff6"
     }
   }
 }
