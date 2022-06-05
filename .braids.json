@@ -31,6 +31,11 @@
       "branch": "master",
       "revision": "fe0672d256e3cd166da081d85e05a9a0568a07d7"
     },
+    "lib32-at-spi2-core": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-at-spi2-core.git",
+      "branch": "master",
+      "revision": "9bab1793e49a7bc5ee7fc18c95f8882a3664a656"
+    },
     "lib32-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-atk.git",
       "branch": "master",
