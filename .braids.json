@@ -860,6 +860,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-tdb.git",
       "branch": "master",
       "revision": "52fe50ffc2c9ac4986e465598a5a801fddd1db88"
+    },
+    "lib32-twolame": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-twolame.git",
+      "branch": "master",
+      "revision": "e90d98fe8fa6ca181ea4fef5759f4695495903d5"
     }
   }
 }
