@@ -705,6 +705,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lm_sensors.git",
       "branch": "master",
       "revision": "e5e909ad7b67bcd71c074135690586811b078643"
+    },
+    "lib32-lz4": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lz4.git",
+      "branch": "master",
+      "revision": "f9387f52cfaf18d9ed71eafa021c13779c0542f6"
     }
   }
 }
