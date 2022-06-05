@@ -165,6 +165,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gamemode.git",
       "branch": "master",
       "revision": "0fd940ec7e59c4bc8c6d63c741d765c140770ee8"
+    },
+    "lib32-gdk-pixbuf2": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gdk-pixbuf2.git",
+      "branch": "master",
+      "revision": "c62e4927816e4531388d842f2fec333c5e07cc84"
     }
   }
 }
