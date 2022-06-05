@@ -600,6 +600,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcursor.git",
       "branch": "master",
       "revision": "40023cb07e9c1b12cb0d4baa517bea2688acda8c"
+    },
+    "lib32-libxdamage": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxdamage.git",
+      "branch": "master",
+      "revision": "3d52b6905cc80c09a689a09b33dbedd91799c3fc"
     }
   }
 }
