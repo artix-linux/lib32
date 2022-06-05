@@ -775,6 +775,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pam.git",
       "branch": "master",
       "revision": "d1901163f30e4cdde6a807f415f9e52de84a6beb"
+    },
+    "lib32-pango": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pango.git",
+      "branch": "master",
+      "revision": "5e86fc112faf200ee0fd30adba2a3deaadaa9154"
     }
   }
 }
