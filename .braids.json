@@ -605,6 +605,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxdamage.git",
       "branch": "master",
       "revision": "3d52b6905cc80c09a689a09b33dbedd91799c3fc"
+    },
+    "lib32-libxdmcp": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxdmcp.git",
+      "branch": "master",
+      "revision": "ba9c9b820e3ec6495b839f229cd41e7adfe90f76"
     }
   }
 }
