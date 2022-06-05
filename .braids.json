@@ -765,6 +765,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-orc.git",
       "branch": "master",
       "revision": "3b46b6aa2c3fbbd6a0f7206f8bb6ee7c950fb50b"
+    },
+    "lib32-p11-kit": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-p11-kit.git",
+      "branch": "master",
+      "revision": "f71a5ed5540ec448229d7dae2d7e96b5273ae515"
     }
   }
 }
