@@ -400,6 +400,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libltdl.git",
       "branch": "master",
       "revision": "6a2cc049284948ff56270b0e0868d22efc98f5a2"
+    },
+    "lib32-libnghttp2": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnghttp2.git",
+      "branch": "master",
+      "revision": "e40dc6da5a6fa5a7fa4195432cf66c88f2e5da3a"
     }
   }
 }
