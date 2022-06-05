@@ -20,6 +20,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-alsa-plugins.git",
       "branch": "master",
       "revision": "a4db0dcffb7c07054e23bb07ff38aba4ec95567c"
+    },
+    "lib32-artix-archlinux-support": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-artix-archlinux-support.git",
+      "branch": "master",
+      "revision": "e61a436398946cf3f7437cd7fc6d8b125566d3c7"
     }
   }
 }
