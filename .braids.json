@@ -270,6 +270,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lcms2.git",
       "branch": "master",
       "revision": "bff96c1534efd8ae1004094035b7e6be441be82f"
+    },
+    "lib32-libasyncns": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libasyncns.git",
+      "branch": "master",
+      "revision": "b1d2ac2e9adf2c7745a43d8f89cf65d48d7a815a"
     }
   }
 }
