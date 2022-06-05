@@ -355,6 +355,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgudev.git",
       "branch": "master",
       "revision": "4c36b8b06fe377b614db1df069af5b6265ee2df0"
+    },
+    "lib32-libgusb": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgusb.git",
+      "branch": "master",
+      "revision": "ea946ff848a524f58e387fb366d408a2cff0ecd0"
     }
   }
 }
