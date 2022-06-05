@@ -865,6 +865,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-twolame.git",
       "branch": "master",
       "revision": "e90d98fe8fa6ca181ea4fef5759f4695495903d5"
+    },
+    "lib32-udev": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-udev.git",
+      "branch": "master",
+      "revision": "f421907a2aac14644b8efc18a463093fe5b30ee6"
     }
   }
 }
