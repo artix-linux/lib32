@@ -815,6 +815,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-portaudio.git",
       "branch": "master",
       "revision": "d68603378c3e33c85e8d52fd1cba23863e243d61"
+    },
+    "lib32-readline": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-readline.git",
+      "branch": "master",
+      "revision": "8e900e82f440f4f47b8683d209e5c154c7d8f012"
     }
   }
 }
