@@ -695,6 +695,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxxf86vm.git",
       "branch": "master",
       "revision": "3832b17c30c4a0b6377bb1ac619472e37478ed5d"
+    },
+    "lib32-llvm": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-llvm.git",
+      "branch": "master",
+      "revision": "62ad58636cfbbda83a8320296ed64eb3543dcd0b"
     }
   }
 }
