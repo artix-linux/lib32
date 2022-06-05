@@ -930,6 +930,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesW/wine.git",
       "branch": "master",
       "revision": "f90a9b7437e2c267ad675e5b234d27f97e112621"
+    },
+    "winetricks": {
+      "url": "gitea@gitea.artixlinux.org:packagesW/winetricks.git",
+      "branch": "master",
+      "revision": "080f206e9348fae9e6d850d01317ab73f093d11a"
     }
   }
 }
