@@ -350,6 +350,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgpg-error.git",
       "branch": "master",
       "revision": "9fe01784b43baa398e8e89b7e240ae7e8ce384ec"
+    },
+    "lib32-libgudev": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgudev.git",
+      "branch": "master",
+      "revision": "4c36b8b06fe377b614db1df069af5b6265ee2df0"
     }
   }
 }
