@@ -250,6 +250,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-json-glib.git",
       "branch": "master",
       "revision": "803df909180861bc6584c411b62f228e29b83835"
+    },
+    "lib32-keyutils": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-keyutils.git",
+      "branch": "master",
+      "revision": "6aee647f2f102b2435fdd6d900237945276d10a9"
     }
   }
 }
