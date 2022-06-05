@@ -85,6 +85,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-colord.git",
       "branch": "master",
       "revision": "fdc07c39e19c286021658e6e75c109dd00661763"
+    },
+    "lib32-curl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-curl.git",
+      "branch": "master",
+      "revision": "648d806bc429e850abda7d34540d5b1256d758c3"
     }
   }
 }
