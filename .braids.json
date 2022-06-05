@@ -470,6 +470,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libshout.git",
       "branch": "master",
       "revision": "8b0cb40cc9f2dd4db28b2316e7e0f8d6e9657bfd"
+    },
+    "lib32-libsm": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsm.git",
+      "branch": "master",
+      "revision": "d4002b43bfec7ff93192867060d2df563e5adaa5"
     }
   }
 }
