@@ -740,6 +740,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nss.git",
       "branch": "master",
       "revision": "ef7c1e81aadd4e7e7362f1c5e0b358a4cebc5d34"
+    },
+    "lib32-ocl-icd": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ocl-icd.git",
+      "branch": "master",
+      "revision": "e3c8f4071e0d326ee2256ff4b5b36d8de8dd512c"
     }
   }
 }
