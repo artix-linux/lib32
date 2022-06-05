@@ -615,6 +615,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxext.git",
       "branch": "master",
       "revision": "03e3fd4b4fbd28a9f5470c2b58b417f7a68ba2e1"
+    },
+    "lib32-libxfixes": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxfixes.git",
+      "branch": "master",
+      "revision": "66f934987ba836ab45cb21ffa708024c393468b6"
     }
   }
 }
