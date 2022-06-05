@@ -125,6 +125,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fakeroot.git",
       "branch": "master",
       "revision": "485db5f1ee827afc1c1c3a411d213b3d0b3a1894"
+    },
+    "lib32-faudio": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-faudio.git",
+      "branch": "master",
+      "revision": "e2b7e3e83bcc6e221540ceb35669bb7306f7d7c4"
     }
   }
 }
