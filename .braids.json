@@ -290,6 +290,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcaca.git",
       "branch": "master",
       "revision": "ad514e708ac0034e8941e5cef6ff1fcb70a5d0d6"
+    },
+    "lib32-libcanberra": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcanberra.git",
+      "branch": "master",
+      "revision": "26ef42d06b6f95b72a9864c4f110d41437844c25"
     }
   }
 }
