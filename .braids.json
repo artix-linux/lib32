@@ -420,6 +420,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libogg.git",
       "branch": "master",
       "revision": "b7cfaf9e684a411b04d216f378451e759a69a7ba"
+    },
+    "lib32-libpcap": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpcap.git",
+      "branch": "master",
+      "revision": "f5c212e6659aeb9c58ed272becde314436cf9273"
     }
   }
 }
