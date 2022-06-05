@@ -570,6 +570,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libwebp.git",
       "branch": "master",
       "revision": "871c1112dcad82cb8c201b377cfc0ebb7cd689f1"
+    },
+    "lib32-libx11": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libx11.git",
+      "branch": "master",
+      "revision": "8ef52f05c77982a49719782ced5f91d3dbe6d753"
     }
   }
 }
