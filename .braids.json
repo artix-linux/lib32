@@ -855,6 +855,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-taglib.git",
       "branch": "master",
       "revision": "6ffca0a3dfeb2652406ca4c84a290ae6c0489fb3"
+    },
+    "lib32-tdb": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-tdb.git",
+      "branch": "master",
+      "revision": "52fe50ffc2c9ac4986e465598a5a801fddd1db88"
     }
   }
 }
