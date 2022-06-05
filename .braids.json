@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "lib32-aalib": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-aalib.git",
+      "branch": "master",
+      "revision": "0d35e2efb66dd1e1767af75ada371029d03645af"
+    }
+  }
+}
