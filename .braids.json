@@ -115,6 +115,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-elogind.git",
       "branch": "master",
       "revision": "e6a130b2cf153df65c2849f785fc740d20b017b7"
+    },
+    "lib32-expat": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-expat.git",
+      "branch": "master",
+      "revision": "af0fe99f1e23eb1c61f41147f4d1dda6896b835b"
     }
   }
 }
