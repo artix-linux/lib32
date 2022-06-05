@@ -45,6 +45,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-attr.git",
       "branch": "master",
       "revision": "3415aa7a57e4f4429606fc8e489052713064cf28"
+    },
+    "lib32-brotli": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-brotli.git",
+      "branch": "master",
+      "revision": "83ecb78ce38cfe05c130c26c14cb44a45d3a5806"
     }
   }
 }
