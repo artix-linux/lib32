@@ -920,6 +920,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zstd.git",
       "branch": "master",
       "revision": "54fba54f00bdd8ddf455daa8beb32f233e6217da"
+    },
+    "steam": {
+      "url": "gitea@gitea.artixlinux.org:packagesS/steam.git",
+      "branch": "master",
+      "revision": "1eef4dcf6d3e976f3b3a3ab1b2a3c23aac368904"
     }
   }
 }
