@@ -60,6 +60,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cairo.git",
       "branch": "master",
       "revision": "a4306e14ab04d612671be497dc7768b46513caeb"
+    },
+    "lib32-cdparanoia": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cdparanoia.git",
+      "branch": "master",
+      "revision": "fb15a305eac3c4953d42169575a59bb3a1fcb74a"
     }
   }
 }
