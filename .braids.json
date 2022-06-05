@@ -410,6 +410,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnl.git",
       "branch": "master",
       "revision": "ad6a89ccb0ceb763503e322e85cd00485c8980f0"
+    },
+    "lib32-libnsl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnsl.git",
+      "branch": "master",
+      "revision": "7f5cde096fd60d08789346e9f07fe50ab4393772"
     }
   }
 }
