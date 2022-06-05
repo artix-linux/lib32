@@ -220,6 +220,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gtk2.git",
       "branch": "master",
       "revision": "7d5487c98de6eed271cb011e3899000acf500872"
+    },
+    "lib32-gtk3": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gtk3.git",
+      "branch": "master",
+      "revision": "3d2b7e9d1a9b3beb6fc694ff8f83db1b36e1f2d8"
     }
   }
 }
