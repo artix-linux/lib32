@@ -325,6 +325,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libelf.git",
       "branch": "master",
       "revision": "b67fbba3626db0c6cc4d8971b4226eaecce68ff6"
+    },
+    "lib32-libepoxy": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libepoxy.git",
+      "branch": "master",
+      "revision": "b50f8daa694bcef39a92f6b080af6fd800049317"
     }
   }
 }
