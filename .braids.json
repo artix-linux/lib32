@@ -845,6 +845,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-speexdsp.git",
       "branch": "master",
       "revision": "0479d714b75d0b88be741745b7dfe3667c69a767"
+    },
+    "lib32-sqlite": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sqlite.git",
+      "branch": "master",
+      "revision": "8f6cc37fd32a41f68a9d85b5211a76ec013b8194"
     }
   }
 }
