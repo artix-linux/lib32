@@ -590,6 +590,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcomposite.git",
       "branch": "master",
       "revision": "17be5d287dabb2aeea3d52128d1f925c54f43940"
+    },
+    "lib32-libxcrypt": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcrypt.git",
+      "branch": "master",
+      "revision": "f489aba4936c5d7e9bca1f32f2e2867e4b32fd93"
     }
   }
 }
