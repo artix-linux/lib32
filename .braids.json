@@ -880,6 +880,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-v4l-utils.git",
       "branch": "master",
       "revision": "0ed32e27cc5349b16e4aac30cacf924245d52616"
+    },
+    "lib32-vkd3d": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vkd3d.git",
+      "branch": "master",
+      "revision": "ba314cf16b0078f8ac367d63d4621f1052d30aaa"
     }
   }
 }
