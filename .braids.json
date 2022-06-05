@@ -785,6 +785,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pcre.git",
       "branch": "master",
       "revision": "ba358f9a8612364b9101e862b16b4f79774f934e"
+    },
+    "lib32-pcre2": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pcre2.git",
+      "branch": "master",
+      "revision": "093d4212e6830f49195a82c2a11a2094cc423b6a"
     }
   }
 }
