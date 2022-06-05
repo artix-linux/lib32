@@ -890,6 +890,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vulkan-icd-loader.git",
       "branch": "master",
       "revision": "b17c4f9185160a2ef29018c04aecd55ca354bfe7"
+    },
+    "lib32-wavpack": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wavpack.git",
+      "branch": "master",
+      "revision": "43966c010d5c20f7df93397ca826701e382dc05d"
     }
   }
 }
