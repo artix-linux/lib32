@@ -425,6 +425,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpcap.git",
       "branch": "master",
       "revision": "f5c212e6659aeb9c58ed272becde314436cf9273"
+    },
+    "lib32-libpciaccess": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpciaccess.git",
+      "branch": "master",
+      "revision": "1b7578db01007afdfa96f7cbfe25adcdd1767305"
     }
   }
 }
