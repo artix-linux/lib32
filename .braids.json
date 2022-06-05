@@ -485,6 +485,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsoup.git",
       "branch": "master",
       "revision": "192f72b7dfc3dfb5843492a4e7a0df393abf1c44"
+    },
+    "lib32-libsoup3": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsoup3.git",
+      "branch": "master",
+      "revision": "2aab5e3ab6783892c70a8e9b4db3679123b26aa0"
     }
   }
 }
