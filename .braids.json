@@ -875,6 +875,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-util-linux.git",
       "branch": "master",
       "revision": "e656814cda5a822fda1128a023d80730d82c7d09"
+    },
+    "lib32-v4l-utils": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-v4l-utils.git",
+      "branch": "master",
+      "revision": "0ed32e27cc5349b16e4aac30cacf924245d52616"
     }
   }
 }
