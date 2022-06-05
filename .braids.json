@@ -255,6 +255,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-keyutils.git",
       "branch": "master",
       "revision": "6aee647f2f102b2435fdd6d900237945276d10a9"
+    },
+    "lib32-krb5": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-krb5.git",
+      "branch": "master",
+      "revision": "97f0cc02426c68b77b32b49b2741da5115324208"
     }
   }
 }
