@@ -495,6 +495,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libssh2.git",
       "branch": "master",
       "revision": "7302486a2bf23d7640f21f30731b7bbbef92c8fa"
+    },
+    "lib32-libtasn1": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtasn1.git",
+      "branch": "master",
+      "revision": "3e6be1fe6167a4846c91878f3744cf4b2397880c"
     }
   }
 }
