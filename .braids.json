@@ -340,6 +340,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgcrypt.git",
       "branch": "master",
       "revision": "82b782bf8b5a81dd2a5e809b8ce31492b15666ca"
+    },
+    "lib32-libglvnd": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libglvnd.git",
+      "branch": "master",
+      "revision": "d3b45f7e73bf44ab3394eb18b8ff73add2f16722"
     }
   }
 }
