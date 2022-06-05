@@ -5,6 +5,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-aalib.git",
       "branch": "master",
       "revision": "0d35e2efb66dd1e1767af75ada371029d03645af"
+    },
+    "lib32-acl": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-acl.git",
+      "branch": "master",
+      "revision": "232257a3c83600293341fa9e4a03423b2a4d8473"
     }
   }
 }
