@@ -475,6 +475,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsm.git",
       "branch": "master",
       "revision": "d4002b43bfec7ff93192867060d2df563e5adaa5"
+    },
+    "lib32-libsndfile": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsndfile.git",
+      "branch": "master",
+      "revision": "0798dbd3536496449e333e1da5e187d51b10686f"
     }
   }
 }
