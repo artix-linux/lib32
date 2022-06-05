@@ -510,6 +510,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtheora.git",
       "branch": "master",
       "revision": "80c1aa7be833ce678674bbba3b5884cfc73d6761"
+    },
+    "lib32-libtiff": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtiff.git",
+      "branch": "master",
+      "revision": "6d96dd88baf5cec685f383e86cd742b1343555aa"
     }
   }
 }
