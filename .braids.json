@@ -910,6 +910,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-xz.git",
       "branch": "master",
       "revision": "895e50e3a837f8333f514a6627f080121b210db6"
+    },
+    "lib32-zlib": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zlib.git",
+      "branch": "master",
+      "revision": "ce91505c6c457937b1988218dae72dd072f80f2f"
     }
   }
 }
