@@ -210,6 +210,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gpm.git",
       "branch": "master",
       "revision": "bc4bc8e9cc795ecd0660b6b624a106ceb1997446"
+    },
+    "lib32-gstreamer": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gstreamer.git",
+      "branch": "master",
+      "revision": "886c345c850a1f8bf07ad6456b0a83f7ad344ed4"
     }
   }
 }
