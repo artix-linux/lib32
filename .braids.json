@@ -560,6 +560,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvorbis.git",
       "branch": "master",
       "revision": "1e48823b2bd1140f08b4c9a47bc2cf2a1f5700a6"
+    },
+    "lib32-libvpx": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvpx.git",
+      "branch": "master",
+      "revision": "d02482ff961986c8518f73b201abe766c7d99823"
     }
   }
 }
