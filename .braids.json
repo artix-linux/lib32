@@ -905,6 +905,11 @@
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-xcb-util-keysyms.git",
       "branch": "master",
       "revision": "4984cdefa9d928e53020653927e3b8ec421f6299"
+    },
+    "lib32-xz": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-xz.git",
+      "branch": "master",
+      "revision": "895e50e3a837f8333f514a6627f080121b210db6"
     }
   }
 }
