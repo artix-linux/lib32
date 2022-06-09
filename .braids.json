@@ -714,7 +714,7 @@
     "lib32-mesa": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-mesa.git",
       "branch": "master",
-      "revision": "3bda5332eb7717435eebcaa7f895020b14386805"
+      "revision": "712533a73ed474ab70629213ee3861735a797b7c"
     },
     "lib32-mpg123": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-mpg123.git",
