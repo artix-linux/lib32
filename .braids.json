@@ -729,7 +729,7 @@
     "lib32-nettle": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nettle.git",
       "branch": "master",
-      "revision": "d131cdea36b8ccfeed69d862ce09b35093963166"
+      "revision": "f8a0c10c20b0cc817034c992e3223abc126eaf8f"
     },
     "lib32-nspr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nspr.git",
