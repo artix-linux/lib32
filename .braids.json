@@ -874,7 +874,7 @@
     "lib32-udev": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-udev.git",
       "branch": "master",
-      "revision": "f421907a2aac14644b8efc18a463093fe5b30ee6"
+      "revision": "94775fb88db3510481b2dcc1fad28741c2802ef1"
     },
     "lib32-util-linux": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-util-linux.git",
