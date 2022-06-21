@@ -806,6 +806,11 @@
       "branch": "master",
       "revision": "74e26b1b62c765c175f9d74fef0fbfb9c52270c8"
     },
+    "lib32-png12": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-png12.git",
+      "branch": "master",
+      "revision": "67527d9d5cfbe9798503418c6cb0d284efb0f468"
+    },
     "lib32-polkit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-polkit.git",
       "branch": "master",
