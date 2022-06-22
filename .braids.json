@@ -854,7 +854,7 @@
     "lib32-speex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-speex.git",
       "branch": "master",
-      "revision": "fe058778a0065565106941e564f0bec4a42bfd19"
+      "revision": "a82290d209155a8b3f92517cacd9c9fa2ae5855e"
     },
     "lib32-speexdsp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-speexdsp.git",
