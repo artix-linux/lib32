@@ -184,7 +184,7 @@
     "lib32-glib-networking": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-glib-networking.git",
       "branch": "master",
-      "revision": "4a31b9deb4fbcf6051f407b1ffb799885a040ebb"
+      "revision": "6889c0123848057fd577e9b0ec60d22037ddec64"
     },
     "lib32-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-glib2.git",
