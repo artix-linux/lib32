@@ -909,7 +909,7 @@
     "lib32-wavpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wavpack.git",
       "branch": "master",
-      "revision": "43966c010d5c20f7df93397ca826701e382dc05d"
+      "revision": "8ba361e91c8aa2e211c11bee0ce09a5b210c0c06"
     },
     "lib32-wayland": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wayland.git",
