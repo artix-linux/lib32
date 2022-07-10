@@ -134,7 +134,7 @@
     "lib32-flac": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-flac.git",
       "branch": "master",
-      "revision": "80b4056e7db2ec3c1c579f1212e74692a5ab2a0c"
+      "revision": "5d8e41456cfbf5ce79c7652c0099f84b01cab1af"
     },
     "lib32-flex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-flex.git",
