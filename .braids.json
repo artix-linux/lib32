@@ -864,7 +864,7 @@
     "lib32-sqlite": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sqlite.git",
       "branch": "master",
-      "revision": "31e3a13ef1d732c3d4acbb190e4c7de032704fe5"
+      "revision": "767cf41d4825245f604060e1cdee37c235b77e6f"
     },
     "lib32-taglib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-taglib.git",
