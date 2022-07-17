@@ -394,7 +394,7 @@
     "lib32-libldap": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libldap.git",
       "branch": "master",
-      "revision": "c72e4dded71d87daa331ec9cc0ed08766b47664b"
+      "revision": "47c4255ea15b7f810a0b55dc921bf91ec4f8d852"
     },
     "lib32-libltdl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libltdl.git",
