@@ -569,7 +569,7 @@
     "lib32-libvpx": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvpx.git",
       "branch": "master",
-      "revision": "d02482ff961986c8518f73b201abe766c7d99823"
+      "revision": "ce787e45cdbfaff15bfb5929cebca5d50f2fa92a"
     },
     "lib32-libwebp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libwebp.git",
