@@ -519,7 +519,7 @@
     "lib32-libtiff": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtiff.git",
       "branch": "master",
-      "revision": "6d96dd88baf5cec685f383e86cd742b1343555aa"
+      "revision": "84cd0eea88f2c7b15f37dc5e620244b91dd5639d"
     },
     "lib32-libtirpc": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtirpc.git",
