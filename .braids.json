@@ -739,7 +739,7 @@
     "lib32-nspr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nspr.git",
       "branch": "master",
-      "revision": "88857bbcb11ba12a5d147208c182603e2efdf693"
+      "revision": "39ecb16fd661e96f72cbaa223ff74d4001d94432"
     },
     "lib32-nss": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nss.git",
