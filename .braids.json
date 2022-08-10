@@ -169,7 +169,7 @@
     "lib32-gdk-pixbuf2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gdk-pixbuf2.git",
       "branch": "master",
-      "revision": "c62e4927816e4531388d842f2fec333c5e07cc84"
+      "revision": "ce26026882070f4cb3962cf9c2cb47ca10013ba1"
     },
     "lib32-gettext": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gettext.git",
