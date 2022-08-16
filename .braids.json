@@ -949,7 +949,7 @@
     "wine-staging": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wine-staging.git",
       "branch": "master",
-      "revision": "29c97e364c903681e008b5f7cf2d65687568e76e"
+      "revision": "7a911a2f5071237bfedd75c9215ce377f6895f96"
     },
     "winetricks": {
       "url": "gitea@gitea.artixlinux.org:packagesW/winetricks.git",
