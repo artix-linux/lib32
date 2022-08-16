@@ -549,7 +549,7 @@
     "lib32-libva": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libva.git",
       "branch": "master",
-      "revision": "e17dabe3cfd7a3e46fd2fd0564f27f4dc3342ffc"
+      "revision": "90233be7115ed72112e83f9df57c9160da16b637"
     },
     "lib32-libvdpau": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvdpau.git",
