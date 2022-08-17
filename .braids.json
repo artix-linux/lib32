@@ -674,7 +674,7 @@
     "lib32-libxslt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxslt.git",
       "branch": "master",
-      "revision": "c757889c11935f3cb613a833d66f2cec7b4892e9"
+      "revision": "1da5062e40cc08169dbf873a607cb2350d5e2abe"
     },
     "lib32-libxss": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxss.git",
