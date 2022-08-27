@@ -464,7 +464,7 @@
     "lib32-librsvg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-librsvg.git",
       "branch": "master",
-      "revision": "168ef80f3777034f1a27368175d7cac2aed44238"
+      "revision": "217a5ba74c856ba66995b8fe1060428d072853c0"
     },
     "lib32-libsamplerate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsamplerate.git",
