@@ -939,7 +939,7 @@
     "steam": {
       "url": "gitea@gitea.artixlinux.org:packagesS/steam.git",
       "branch": "master",
-      "revision": "1eef4dcf6d3e976f3b3a3ab1b2a3c23aac368904"
+      "revision": "86299a3b217757bf207bfcfdf778ca1c19d234d7"
     },
     "wine": {
       "url": "gitea@gitea.artixlinux.org:packagesW/wine.git",
