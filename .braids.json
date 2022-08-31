@@ -204,7 +204,7 @@
     "lib32-gnutls": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gnutls.git",
       "branch": "master",
-      "revision": "0e71fa8b89f90c5828d117a5e33ab92cec779f42"
+      "revision": "db777d80da49ea6f517bb7c6753a776e0f244597"
     },
     "lib32-gpm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gpm.git",
