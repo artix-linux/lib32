@@ -504,7 +504,7 @@
     "lib32-libtasn1": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtasn1.git",
       "branch": "master",
-      "revision": "3e6be1fe6167a4846c91878f3744cf4b2397880c"
+      "revision": "9120393af5b4d5d17b3238a13ecb8dc13f838cf9"
     },
     "lib32-libthai": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libthai.git",
