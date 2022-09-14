@@ -484,7 +484,7 @@
     "lib32-libsndfile": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsndfile.git",
       "branch": "master",
-      "revision": "09ef5c66adecae24630e2d0e877b5e87db49e3b5"
+      "revision": "441cfe0e8c55a1b97dbccf17e784993f16684948"
     },
     "lib32-libsoup": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsoup.git",
