@@ -434,7 +434,7 @@
     "lib32-libpng": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpng.git",
       "branch": "master",
-      "revision": "476e34d0801deb47013588336eb03ecb5a6a36d9"
+      "revision": "6c43ef2446c00c0d97c0ca27f9124cf48f9cc150"
     },
     "lib32-libpng12": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpng12.git",
