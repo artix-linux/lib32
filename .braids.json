@@ -404,7 +404,7 @@
     "lib32-libnghttp2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnghttp2.git",
       "branch": "master",
-      "revision": "e79ac9d97fe916d757b6fa590ffee11964696481"
+      "revision": "3818447d69a2ea91e0d471e3ed93fdc5bfe12ac9"
     },
     "lib32-libnl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnl.git",
