@@ -224,7 +224,7 @@
     "lib32-gtk3": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gtk3.git",
       "branch": "master",
-      "revision": "85fa3d97209f7e5aa0e97f8dfb92c995b882694e"
+      "revision": "c81a80a4fe8092fe0ba114bfa51676f6cf99945b"
     },
     "lib32-harfbuzz": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-harfbuzz.git",
