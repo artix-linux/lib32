@@ -789,7 +789,7 @@
     "lib32-pango": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pango.git",
       "branch": "master",
-      "revision": "f0df0a9b2295acc302877022e4b3fc5f3e0a8dc5"
+      "revision": "205e659465f62ea46326951ad8a519260ed314ce"
     },
     "lib32-pcre": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pcre.git",
