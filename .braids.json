@@ -849,7 +849,7 @@
     "lib32-sdl2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sdl2.git",
       "branch": "master",
-      "revision": "7ac0f2d2f41c7d0e9602f1f167d4dfa340d0c85b"
+      "revision": "2501c9c5cd152028cf0d0aa1908a1b919ac251f7"
     },
     "lib32-speex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-speex.git",
