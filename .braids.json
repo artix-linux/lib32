@@ -99,7 +99,7 @@
     "lib32-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-dbus.git",
       "branch": "master",
-      "revision": "73319aedef328d1bd71ab0f5d808da84b8f2040f"
+      "revision": "44de4dd236ae5a9dea5ffb8a72c10686c0d3362a"
     },
     "lib32-dconf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-dconf.git",
