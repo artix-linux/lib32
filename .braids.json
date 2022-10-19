@@ -359,7 +359,7 @@
     "lib32-libgusb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgusb.git",
       "branch": "master",
-      "revision": "3a62377f3b9030f415958b08f935902831d56e69"
+      "revision": "67e5c392228b7785e70ad7787a3004981b258003"
     },
     "lib32-libice": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libice.git",
