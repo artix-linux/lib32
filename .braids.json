@@ -149,7 +149,7 @@
     "lib32-fontconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fontconfig.git",
       "branch": "master",
-      "revision": "e3012231b7bffd8736b4f8f5ac3be11a1036ae76"
+      "revision": "b26d09f54814d896c16bfffdb6957dc17eb2ebf9"
     },
     "lib32-freetype2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-freetype2.git",
