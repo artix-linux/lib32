@@ -234,7 +234,7 @@
     "lib32-icu": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-icu.git",
       "branch": "master",
-      "revision": "e98eaf1c90877a109c8d01ef9aecf2efdccf0ccd"
+      "revision": "b3f3e3346906e282e02e9e8849563914f72410b2"
     },
     "lib32-imlib2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-imlib2.git",
