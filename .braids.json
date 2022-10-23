@@ -119,7 +119,7 @@
     "lib32-expat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-expat.git",
       "branch": "master",
-      "revision": "c1c8fcf5065857aa3db3632935ea72563bacee3f"
+      "revision": "fca2fa794be32f8622788490451993f72ae8c307"
     },
     "lib32-fakeroot": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fakeroot.git",
