@@ -334,7 +334,7 @@
     "lib32-libffi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libffi.git",
       "branch": "master",
-      "revision": "da9087bd694501a27da6a022e7d1bbfd1d5b5052"
+      "revision": "ffd3be998da53b6a0cb98f5f3fba2cbab8e46359"
     },
     "lib32-libgcrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgcrypt.git",
