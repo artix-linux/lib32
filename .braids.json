@@ -654,7 +654,7 @@
     "lib32-libxmu": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxmu.git",
       "branch": "master",
-      "revision": "a5b25e4b4338c9b13ec9dbde11036fb1e26f6e35"
+      "revision": "ab5ab3680a4bdad1e48f47bdc7912aef1a3f3c85"
     },
     "lib32-libxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxrandr.git",
