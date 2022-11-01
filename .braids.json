@@ -714,7 +714,7 @@
     "lib32-lz4": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lz4.git",
       "branch": "master",
-      "revision": "f9387f52cfaf18d9ed71eafa021c13779c0542f6"
+      "revision": "c4a8b9631b09a277a53b5c5c1918a99e528096a4"
     },
     "lib32-mesa": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-mesa.git",
