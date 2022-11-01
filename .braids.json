@@ -669,7 +669,7 @@
     "lib32-libxshmfence": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxshmfence.git",
       "branch": "master",
-      "revision": "c9d9ec4b189f6ee1208dc070eea6a98634b52a42"
+      "revision": "17442eafe1c1ba97a4a44dd83f7df2343c9fedcd"
     },
     "lib32-libxslt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxslt.git",
