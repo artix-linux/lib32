@@ -809,7 +809,7 @@
     "lib32-pixman": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pixman.git",
       "branch": "master",
-      "revision": "74e26b1b62c765c175f9d74fef0fbfb9c52270c8"
+      "revision": "30bf01afdf856d79863e5f4da4342def5c52b467"
     },
     "lib32-png12": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-png12.git",
