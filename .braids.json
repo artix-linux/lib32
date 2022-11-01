@@ -629,7 +629,7 @@
     "lib32-libxft": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxft.git",
       "branch": "master",
-      "revision": "92e61b23ec6d7198f4796d020834dfb2050e16e6"
+      "revision": "cf09cdea79f2474d5a82fec937f13a32c6fadd41"
     },
     "lib32-libxi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxi.git",
