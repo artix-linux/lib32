@@ -639,7 +639,7 @@
     "lib32-libxinerama": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxinerama.git",
       "branch": "master",
-      "revision": "a9446b48e6887d1439bf5561aa3d3849fe409bd6"
+      "revision": "2c55dc6e54959d301aa69adeca13d009e205bf80"
     },
     "lib32-libxkbcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxkbcommon.git",
