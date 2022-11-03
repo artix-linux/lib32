@@ -764,7 +764,7 @@
     "lib32-openssl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-openssl.git",
       "branch": "master",
-      "revision": "8edda4ce7a651425793e3b8d30cbc8cab33b340c"
+      "revision": "ca5ebfbe2867fa945273b36854010cf16b393f3e"
     },
     "lib32-opus": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-opus.git",
