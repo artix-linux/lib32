@@ -474,7 +474,7 @@
     "lib32-libshout": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libshout.git",
       "branch": "master",
-      "revision": "8b0cb40cc9f2dd4db28b2316e7e0f8d6e9657bfd"
+      "revision": "33e0915e28c6a5ee52df564024f08395ee20a813"
     },
     "lib32-libsm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsm.git",
