@@ -599,7 +599,7 @@
     "lib32-libxcrypt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcrypt.git",
       "branch": "master",
-      "revision": "09e633aa58a21c2683629edea8e468fc7980d103"
+      "revision": "3b14bcaefead0168217507633783eaf906a40889"
     },
     "lib32-libxcursor": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcursor.git",
