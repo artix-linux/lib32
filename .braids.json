@@ -274,7 +274,7 @@
     "lib32-libasyncns": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libasyncns.git",
       "branch": "master",
-      "revision": "b1d2ac2e9adf2c7745a43d8f89cf65d48d7a815a"
+      "revision": "4db9b7ec1f9c491c19a719cd5f21aa4591c99b7e"
     },
     "lib32-libavc1394": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libavc1394.git",
