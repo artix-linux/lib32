@@ -459,7 +459,7 @@
     "lib32-libraw1394": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libraw1394.git",
       "branch": "master",
-      "revision": "e72616e0c6e9830b0aa966c5f7368085dd12dc4e"
+      "revision": "b7837349e732733f7a9bd0de3bc70420f88e1f41"
     },
     "lib32-librsvg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-librsvg.git",
