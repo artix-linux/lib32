@@ -869,7 +869,7 @@
     "lib32-taglib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-taglib.git",
       "branch": "master",
-      "revision": "3026641e949b60ecb6ff44aa8df2ce3760a101bc"
+      "revision": "57dce3ade2ded626df5e58e873ef7f3452d84328"
     },
     "lib32-tdb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-tdb.git",
