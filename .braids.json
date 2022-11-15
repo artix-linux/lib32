@@ -369,7 +369,7 @@
     "lib32-libid3tag": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libid3tag.git",
       "branch": "master",
-      "revision": "d5c21802d9a3a02dec28ded3dd3ca88cd25a1501"
+      "revision": "71de3529d834ebb6ee4675c67984bfccce50b32d"
     },
     "lib32-libidn2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libidn2.git",
