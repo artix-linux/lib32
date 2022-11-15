@@ -279,7 +279,7 @@
     "lib32-libavc1394": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libavc1394.git",
       "branch": "master",
-      "revision": "6daeb51f0b6cb04ac95418967d4d88afa5ccb711"
+      "revision": "35f24706ccaa0f5bdea9f48deadbfc2fc54ae4b0"
     },
     "lib32-libavtp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libavtp.git",
