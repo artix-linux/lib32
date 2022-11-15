@@ -834,7 +834,7 @@
     "lib32-readline": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-readline.git",
       "branch": "master",
-      "revision": "f1cc36560260092787e241f584927734448635f5"
+      "revision": "d576a97bd97f17669d1c5fe7728f822e9cad05ab"
     },
     "lib32-rest": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-rest.git",
