@@ -54,7 +54,7 @@
     "lib32-bzip2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-bzip2.git",
       "branch": "master",
-      "revision": "f1e9d325dbab20c61c1e1edc905819df7855b0a2"
+      "revision": "2a7bfa2c9e1aa223c022e25229509159c55749a2"
     },
     "lib32-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cairo.git",
