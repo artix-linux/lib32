@@ -539,7 +539,7 @@
     "lib32-libunwind": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libunwind.git",
       "branch": "master",
-      "revision": "dadfa0c85abbcae09a6d4c44c7287a627e154e11"
+      "revision": "c4f39c1cfaedd534cc236db04157df30eaf7cc20"
     },
     "lib32-libusb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libusb.git",
