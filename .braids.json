@@ -604,7 +604,7 @@
     "lib32-libxcursor": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcursor.git",
       "branch": "master",
-      "revision": "40023cb07e9c1b12cb0d4baa517bea2688acda8c"
+      "revision": "6e82b13dc5c72b5cd6443db86cd3531307a6b1b2"
     },
     "lib32-libxdamage": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxdamage.git",
