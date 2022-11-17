@@ -104,7 +104,7 @@
     "lib32-dconf": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-dconf.git",
       "branch": "master",
-      "revision": "79b1e7d39eb3f508a73500f4f5ba22e23ee26b07"
+      "revision": "0dc9c403f1359384a035075db545915990b84976"
     },
     "lib32-e2fsprogs": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-e2fsprogs.git",
