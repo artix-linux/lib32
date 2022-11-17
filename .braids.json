@@ -509,7 +509,7 @@
     "lib32-libthai": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libthai.git",
       "branch": "master",
-      "revision": "bef8456980a9e1b12bafd4fe7375e561bf7ba051"
+      "revision": "fff0415fb73c9371dc9776adb1da532f484b52b3"
     },
     "lib32-libtheora": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtheora.git",
