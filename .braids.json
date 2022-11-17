@@ -929,7 +929,7 @@
     "lib32-zlib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zlib.git",
       "branch": "master",
-      "revision": "9cfdf02238068cc8eca3bb7e0dd2607b34b11545"
+      "revision": "68aa31ab2a20127f1533a7bedd6a87e068a3fbf8"
     },
     "lib32-zstd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zstd.git",
