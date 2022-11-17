@@ -624,7 +624,7 @@
     "lib32-libxfixes": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxfixes.git",
       "branch": "master",
-      "revision": "66f934987ba836ab45cb21ffa708024c393468b6"
+      "revision": "fbf4046a31c07286374e319dff267ffba29796a2"
     },
     "lib32-libxft": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxft.git",
