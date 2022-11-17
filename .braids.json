@@ -659,7 +659,7 @@
     "lib32-libxrandr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxrandr.git",
       "branch": "master",
-      "revision": "3192e45d797db03b4eefec485235980ff77a838f"
+      "revision": "960861cb556c9931750d35724961b274f559d358"
     },
     "lib32-libxrender": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxrender.git",
