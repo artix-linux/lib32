@@ -49,7 +49,7 @@
     "lib32-brotli": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-brotli.git",
       "branch": "master",
-      "revision": "83ecb78ce38cfe05c130c26c14cb44a45d3a5806"
+      "revision": "10a79afc3085750479fa46cc76cb0b8921e266b7"
     },
     "lib32-bzip2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-bzip2.git",
