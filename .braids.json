@@ -819,7 +819,7 @@
     "lib32-polkit": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-polkit.git",
       "branch": "master",
-      "revision": "fb69366ae779ba9d33366a1c89f6f9b61e284171"
+      "revision": "3ffb80574bfaf893f24b0055819eb7f2e56e0779"
     },
     "lib32-popt": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-popt.git",
