@@ -589,7 +589,7 @@
     "lib32-libxcb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcb.git",
       "branch": "master",
-      "revision": "52e2ea2bb47a966349efe3f867a3c70650265a9a"
+      "revision": "6c042b0c70af9793d177c49631b29241c6143a7b"
     },
     "lib32-libxcomposite": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcomposite.git",
