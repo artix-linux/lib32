@@ -344,7 +344,7 @@
     "lib32-libglvnd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libglvnd.git",
       "branch": "master",
-      "revision": "5fee9a70925b991c64eef953bed145a2fd0e2336"
+      "revision": "393c1fee66203fa6f10636bde0fd2a6b50e99242"
     },
     "lib32-libgpg-error": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libgpg-error.git",
