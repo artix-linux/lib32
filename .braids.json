@@ -144,7 +144,7 @@
     "lib32-fluidsynth": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fluidsynth.git",
       "branch": "master",
-      "revision": "79c1e1a7e67c269a17c2326a7ba3da05c3198a4f"
+      "revision": "1e7d632bc01b60d6dcbab9895fd1ddfd6ce99933"
     },
     "lib32-fontconfig": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fontconfig.git",
