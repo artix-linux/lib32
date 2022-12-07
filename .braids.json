@@ -559,7 +559,7 @@
     "lib32-libvisual": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvisual.git",
       "branch": "master",
-      "revision": "e7e11622185405dcbc81b96af28f42ac0e2d8b58"
+      "revision": "8873c03b394d0996492065738f89d8a51ee30aa1"
     },
     "lib32-libvorbis": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libvorbis.git",
