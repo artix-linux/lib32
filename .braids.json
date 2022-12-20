@@ -239,7 +239,7 @@
     "lib32-imlib2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-imlib2.git",
       "branch": "master",
-      "revision": "12fce1b4f1ddd3ab6f5bb67719f1db6e46269a72"
+      "revision": "32ac122a70cd1b3b8d5f7118dfa97561bbc9a103"
     },
     "lib32-jack2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-jack2.git",
