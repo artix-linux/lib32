@@ -524,7 +524,7 @@
     "lib32-libtirpc": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libtirpc.git",
       "branch": "master",
-      "revision": "f172b8790c0e078d0dc1d517de0400fd617bbda1"
+      "revision": "bf7563b65605c71fb13e6cc97914a93225957ec5"
     },
     "lib32-libudev0-shim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libudev0-shim.git",
