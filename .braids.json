@@ -214,7 +214,7 @@
     "lib32-gstreamer": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gstreamer.git",
       "branch": "master",
-      "revision": "c98db9563b28b6c35ef6e590234d49533d1b8515"
+      "revision": "8e586800cfb53518962258db11cebb2adcf85f15"
     },
     "lib32-gtk2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-gtk2.git",
