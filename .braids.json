@@ -729,7 +729,7 @@
     "lib32-ncurses": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ncurses.git",
       "branch": "master",
-      "revision": "3948077739b4696d8526ecdf8d0578869915b6c6"
+      "revision": "f9af97fdf13a8247e196290aae1ef882ea40eec0"
     },
     "lib32-nettle": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nettle.git",
