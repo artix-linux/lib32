@@ -644,7 +644,7 @@
     "lib32-libxkbcommon": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxkbcommon.git",
       "branch": "master",
-      "revision": "daeb5c9f9145a1a3986ac3910ee836d829eb2b4e"
+      "revision": "00a22d5aab5a8b2f2a0dcc0417d62ca99d5fdc0d"
     },
     "lib32-libxml2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxml2.git",
