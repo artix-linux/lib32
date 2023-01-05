@@ -694,7 +694,7 @@
     "lib32-libxv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxv.git",
       "branch": "master",
-      "revision": "474bf3159aaa58f1e465d554c7b59eb2ad9df782"
+      "revision": "fc1d4e07cdf8dce6cb31aa2fca6b81ec8340d9a7"
     },
     "lib32-libxxf86vm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxxf86vm.git",
