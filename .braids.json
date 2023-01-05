@@ -584,7 +584,7 @@
     "lib32-libxau": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxau.git",
       "branch": "master",
-      "revision": "8ba56e18efd31a8b02959322652b7f9a1e81e6b1"
+      "revision": "0de6e666f51492aa50bc4d2ed817395138150eda"
     },
     "lib32-libxcb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxcb.git",
