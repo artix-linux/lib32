@@ -364,7 +364,7 @@
     "lib32-libice": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libice.git",
       "branch": "master",
-      "revision": "5d67c762b8a0fe4b35f96ff248729581440b8dd5"
+      "revision": "c5a87ea88c1b124d562daa1cf702ef0dd8b480e7"
     },
     "lib32-libid3tag": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libid3tag.git",
