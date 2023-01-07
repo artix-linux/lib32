@@ -259,7 +259,7 @@
     "lib32-krb5": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-krb5.git",
       "branch": "master",
-      "revision": "4b1bbbfa1a2ea28c2dde8379ea2c03a3538d5b28"
+      "revision": "6da4ddcfb66f3cfa86ab54ccbd5a90e44d72f7d8"
     },
     "lib32-ladspa": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ladspa.git",
