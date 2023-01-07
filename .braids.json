@@ -704,7 +704,7 @@
     "lib32-llvm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-llvm.git",
       "branch": "master",
-      "revision": "5236271a2a597950d9da7449a5d5e95d43200b06"
+      "revision": "30cc08fc6f903cdecf7eccf5d32e07c332ba7d27"
     },
     "lib32-lm_sensors": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lm_sensors.git",
