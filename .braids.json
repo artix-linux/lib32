@@ -924,7 +924,7 @@
     "lib32-xz": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-xz.git",
       "branch": "master",
-      "revision": "f45138cee4cd9b535954a6896485549351b2ec08"
+      "revision": "0a3c56bc198e0e475e3fe5ae08bb41b099ad926f"
     },
     "lib32-zlib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zlib.git",
