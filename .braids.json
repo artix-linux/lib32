@@ -724,7 +724,7 @@
     "lib32-mpg123": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-mpg123.git",
       "branch": "master",
-      "revision": "c610460eaee94ddaddc2ffe9852bcd93805b4b41"
+      "revision": "33fc5a3f81f300465b3218e54402f1884a3218ec"
     },
     "lib32-ncurses": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ncurses.git",
