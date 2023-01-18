@@ -74,7 +74,7 @@
     "lib32-clang": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-clang.git",
       "branch": "master",
-      "revision": "529258552d442a13d7eb816b482915e37b0d27d3"
+      "revision": "3035e8f75a8d4208f682dc139d60f0cd7d727fcc"
     },
     "lib32-cmocka": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cmocka.git",
