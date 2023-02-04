@@ -799,7 +799,7 @@
     "lib32-pcre2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pcre2.git",
       "branch": "master",
-      "revision": "4becbd6f880122db8d299d518f1a3dfad034caf5"
+      "revision": "73f88b251af5aa5eb784466988e195423422fd15"
     },
     "lib32-pipewire": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pipewire.git",
