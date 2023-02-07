@@ -59,7 +59,7 @@
     "lib32-cairo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cairo.git",
       "branch": "master",
-      "revision": "a778aed619ce7053fbfc4d100805f773cfad1025"
+      "revision": "52e023bccb48c3562c50b2643d32170a06658f0f"
     },
     "lib32-cdparanoia": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cdparanoia.git",
