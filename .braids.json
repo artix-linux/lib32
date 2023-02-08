@@ -109,7 +109,7 @@
     "lib32-e2fsprogs": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-e2fsprogs.git",
       "branch": "master",
-      "revision": "797d8de4fc9bd1ff0e5e13b0a2c45562cb99bc69"
+      "revision": "bcc9efa8637e65a09f38252431a5817b191f0e58"
     },
     "lib32-elogind": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-elogind.git",
