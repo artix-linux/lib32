@@ -154,7 +154,7 @@
     "lib32-freetype2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-freetype2.git",
       "branch": "master",
-      "revision": "157f8cb62e2e5db78325bd27af604f9f7c5434f2"
+      "revision": "8c85b6ba390a8a7416279676990c6784ae9ae576"
     },
     "lib32-fribidi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fribidi.git",
