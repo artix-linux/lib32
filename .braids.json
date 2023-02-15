@@ -244,7 +244,7 @@
     "lib32-jack2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-jack2.git",
       "branch": "master",
-      "revision": "c05cab48d013c7ac1e019370e1fcc297595104a7"
+      "revision": "7ab3d0dd5a54199b7223c0cf132f61ee2dc1dc38"
     },
     "lib32-json-glib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-json-glib.git",
