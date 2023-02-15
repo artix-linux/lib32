@@ -9,7 +9,7 @@
     "lib32-acl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-acl.git",
       "branch": "master",
-      "revision": "3f9742a1268c87a01a0a0ac485a24588bb58af96"
+      "revision": "519e8c2727583d128ebce71ca889d3e03c7e0724"
     },
     "lib32-alsa-lib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-alsa-lib.git",
