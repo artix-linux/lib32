@@ -579,7 +579,7 @@
     "lib32-libx11": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libx11.git",
       "branch": "master",
-      "revision": "fc834d508813abddbac6660014afefefe96719dc"
+      "revision": "868ff6e6f719bed4eb5d793f147e74bdbf116783"
     },
     "lib32-libxau": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxau.git",
