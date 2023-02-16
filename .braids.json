@@ -389,7 +389,7 @@
     "lib32-libjpeg-turbo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libjpeg-turbo.git",
       "branch": "master",
-      "revision": "d9b80b4517d2b62b8ec703f6532c1fc6cfb73bd3"
+      "revision": "aa6bba5673206095c46ebed36aef46c29251932a"
     },
     "lib32-libldap": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libldap.git",
