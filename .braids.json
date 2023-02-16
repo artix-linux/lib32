@@ -749,7 +749,7 @@
     "lib32-nvidia-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nvidia-utils",
       "branch": "master",
-      "revision": "2f558c74d46c8f69b5b80e5a22b6b129f4b6310d"
+      "revision": "a3abe4623ed09b1505736f76b029b7ec7a19f42b"
     },
     "lib32-ocl-icd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ocl-icd.git",
