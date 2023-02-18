@@ -89,7 +89,7 @@
     "lib32-curl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-curl.git",
       "branch": "master",
-      "revision": "32017cb98cb015ca883f6c716a80987e0239d095"
+      "revision": "77b9c4ac9059ce3ba1646204ae7907fb32c69ebd"
     },
     "lib32-db": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-db.git",
