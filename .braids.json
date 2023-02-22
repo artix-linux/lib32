@@ -934,7 +934,7 @@
     "lib32-zstd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zstd.git",
       "branch": "master",
-      "revision": "54fba54f00bdd8ddf455daa8beb32f233e6217da"
+      "revision": "5af0f130ae66f6c2aa5ad75a5f7fd56b9a5efe3b"
     },
     "steam": {
       "url": "gitea@gitea.artixlinux.org:packagesS/steam.git",
