@@ -529,7 +529,7 @@
     "lib32-libudev0-shim": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libudev0-shim.git",
       "branch": "master",
-      "revision": "147174d816b0916718452b8f1ee0f740e9094fea"
+      "revision": "d430337eeae0353b67c5a349914baa231cbed46e"
     },
     "lib32-libunistring": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libunistring.git",
