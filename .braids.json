@@ -139,7 +139,7 @@
     "lib32-flex": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-flex.git",
       "branch": "master",
-      "revision": "d34d5125ad19a4119a185d10dfdf43946a023d54"
+      "revision": "e259b528a28bf47f8c76a5967882572fb2e020cd"
     },
     "lib32-fluidsynth": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-fluidsynth.git",
