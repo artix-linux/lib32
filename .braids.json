@@ -4,7 +4,7 @@
     "lib32-aalib": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-aalib.git",
       "branch": "master",
-      "revision": "0d35e2efb66dd1e1767af75ada371029d03645af"
+      "revision": "5ad73566a1b6bdc899035caa012728e07cb88476"
     },
     "lib32-acl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-acl.git",
