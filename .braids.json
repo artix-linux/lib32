@@ -379,7 +379,7 @@
     "lib32-libiec61883": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libiec61883.git",
       "branch": "master",
-      "revision": "7cbed385b34866395b7004fd81dd5d8c17669325"
+      "revision": "97cc92f4e57f22dd0804938cfe9122aeca9672bc"
     },
     "lib32-libinstpatch": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libinstpatch.git",
