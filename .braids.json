@@ -939,7 +939,7 @@
     "multilib-devel": {
       "url": "gitea@gitea.artixlinux.org:packagesM/multilib-devel.git",
       "branch": "master",
-      "revision": "25b2311ec4669348c948978c8f87a33e1212116a"
+      "revision": "b1ec6e3f80f0a1ee1c91414bba4f4b39c01d3d3f"
     },
     "steam": {
       "url": "gitea@gitea.artixlinux.org:packagesS/steam.git",
