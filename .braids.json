@@ -229,7 +229,7 @@
     "lib32-harfbuzz": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-harfbuzz.git",
       "branch": "master",
-      "revision": "aea35c9b38b64c85a09e73586d873ff3dad919a4"
+      "revision": "3a8ff5f56ff40c578a1ecdab637069a16da59d9a"
     },
     "lib32-icu": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-icu.git",
