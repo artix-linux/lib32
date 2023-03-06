@@ -449,7 +449,7 @@
     "lib32-libpsl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpsl.git",
       "branch": "master",
-      "revision": "4c27e94f91fc721df073fa034dc1422efab8a859"
+      "revision": "79c44f24073e0a1470995d1b1861b88cfbaa783a"
     },
     "lib32-libpulse": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpulse.git",
