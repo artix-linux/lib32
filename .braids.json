@@ -878,7 +878,7 @@
     "lib32-tdb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-tdb.git",
       "branch": "master",
-      "revision": "9ea6868f383644383d21967df2cd8123bcaa37af"
+      "revision": "ae2a826cb15716aacd86158ba03654dd87412626"
     },
     "lib32-twolame": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-twolame.git",
