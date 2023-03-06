@@ -903,7 +903,7 @@
     "lib32-vkd3d": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vkd3d.git",
       "branch": "master",
-      "revision": "c81bcf3acd4144787dd4e944a431e1e3857acf63"
+      "revision": "e220f47fc8ba820d0d323726640b21dfbe2c1af0"
     },
     "lib32-vulkan-icd-loader": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vulkan-icd-loader.git",
