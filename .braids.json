@@ -454,7 +454,7 @@
     "lib32-libpulse": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libpulse.git",
       "branch": "master",
-      "revision": "9f7d7d9aa414fdf910f24f493a25097f4ac7cff4"
+      "revision": "ea64d1361ec19c9df23d5303769e5ee5bb91e100"
     },
     "lib32-libraw1394": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libraw1394.git",
