@@ -314,7 +314,7 @@
     "lib32-libdrm": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdrm.git",
       "branch": "master",
-      "revision": "bd693a5a169f776eef077f8067a1edecd646a7a3"
+      "revision": "bd94905a1c02ab4a42e5b3b412bab1c5f0f17d12"
     },
     "lib32-libdv": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libdv.git",
