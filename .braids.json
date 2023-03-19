@@ -399,7 +399,7 @@
     "lib32-libltdl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libltdl.git",
       "branch": "master",
-      "revision": "6a2cc049284948ff56270b0e0868d22efc98f5a2"
+      "revision": "e43358ac3e75a7ee5d63537fe21792fb0f9454b2"
     },
     "lib32-libnghttp2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnghttp2.git",
