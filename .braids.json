@@ -469,7 +469,7 @@
     "lib32-libsamplerate": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsamplerate.git",
       "branch": "master",
-      "revision": "ea2e05c81341a91ecbf1fc7d8f6ab2a226f784b5"
+      "revision": "722a8330aaba8eb4707b5642b48ae15a5880f07c"
     },
     "lib32-libshout": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libshout.git",
