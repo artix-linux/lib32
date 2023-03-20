@@ -414,7 +414,7 @@
     "lib32-libnsl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnsl.git",
       "branch": "master",
-      "revision": "7f5cde096fd60d08789346e9f07fe50ab4393772"
+      "revision": "7f0d94e1bbfbe1b4c306112666ebc2853e0050d0"
     },
     "lib32-libogg": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libogg.git",
