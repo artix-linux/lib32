@@ -284,7 +284,7 @@
     "lib32-libavtp": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libavtp.git",
       "branch": "master",
-      "revision": "a89a5bf7dab2f25b975dc96279941c2caf90a307"
+      "revision": "325414437153683157cac1577e9ae799add83820"
     },
     "lib32-libcaca": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcaca.git",
