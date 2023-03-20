@@ -544,7 +544,7 @@
     "lib32-libusb": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libusb.git",
       "branch": "master",
-      "revision": "bed235b8fa4959435d0bbfd2d5d7de6eb64b6708"
+      "revision": "e662f40906db390618e28bd551852d1ad480fe68"
     },
     "lib32-libva": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libva.git",
