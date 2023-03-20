@@ -384,7 +384,7 @@
     "lib32-libinstpatch": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libinstpatch.git",
       "branch": "master",
-      "revision": "05cb440c3b6c05f63593f5cd20a684d2916c3ba7"
+      "revision": "5703384152e682921c0b2461ffd4cb421399efc6"
     },
     "lib32-libjpeg-turbo": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libjpeg-turbo.git",
