@@ -79,7 +79,7 @@
     "lib32-cmocka": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-cmocka.git",
       "branch": "master",
-      "revision": "01e448462318b3ed69be48fb9d76117793db2e0d"
+      "revision": "2369067b8bde897ff0e7ee8829d6a8f92eb342de"
     },
     "lib32-colord": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-colord.git",
