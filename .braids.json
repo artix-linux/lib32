@@ -264,7 +264,7 @@
     "lib32-ladspa": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-ladspa.git",
       "branch": "master",
-      "revision": "1dece1c785225f048ad424a99fa0d93e37b57891"
+      "revision": "c658955332c9de156826ce0cfbf46b0ba98a598d"
     },
     "lib32-lcms2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-lcms2.git",
