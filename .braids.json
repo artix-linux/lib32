@@ -189,7 +189,7 @@
     "lib32-glib2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-glib2.git",
       "branch": "master",
-      "revision": "544d5c7aa0b8bf86321eba036d4920697148242b"
+      "revision": "ab52d5b30792131416ac6dfab6685f48f9809b8c"
     },
     "lib32-glu": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-glu.git",
