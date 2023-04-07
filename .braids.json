@@ -804,7 +804,7 @@
     "lib32-pipewire": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pipewire.git",
       "branch": "master",
-      "revision": "9a21b47208d445e8b8fc9a54dc64610923bb6d94"
+      "revision": "11bcacdf7598d563f19810474f6d3eaa67093f90"
     },
     "lib32-pixman": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-pixman.git",
