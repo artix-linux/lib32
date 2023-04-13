@@ -919,7 +919,7 @@
     "lib32-wayland": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wayland.git",
       "branch": "master",
-      "revision": "b67af221e738cb98684c6d84e9cc70397bbae246"
+      "revision": "7ebdd60c01e444f02b18fe7990a5aa990e6e835e"
     },
     "lib32-xcb-util-keysyms": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-xcb-util-keysyms.git",
