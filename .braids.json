@@ -759,7 +759,7 @@
     "lib32-openal": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-openal.git",
       "branch": "master",
-      "revision": "2377744785f0902a55217365ba1517b0ff83ee35"
+      "revision": "67c2dd06c6e363e883bdd9e0bf4e77168d12ca77"
     },
     "lib32-openssl": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-openssl.git",
