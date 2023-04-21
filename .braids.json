@@ -769,7 +769,7 @@
     "lib32-opus": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-opus.git",
       "branch": "master",
-      "revision": "aaabbad87e581e53b87c33eecc033954fb87b0fe"
+      "revision": "2dc0094fb601380466679faa7b64bb9a9f59dad0"
     },
     "lib32-orc": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-orc.git",
