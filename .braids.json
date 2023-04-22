@@ -494,7 +494,7 @@
     "lib32-libsoup3": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libsoup3.git",
       "branch": "master",
-      "revision": "7f0ac4499fc85d89491cd74081420b8ddce22293"
+      "revision": "a55cc1eb0f2dbaf35a046cf3fea234a3609bff6f"
     },
     "lib32-libssh2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libssh2.git",
