@@ -649,7 +649,7 @@
     "lib32-libxml2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxml2.git",
       "branch": "master",
-      "revision": "4a032652c34cd07cf3e69147715b2e871fbec7a4"
+      "revision": "18141bed7159505527bc660ce31899df3399f7ba"
     },
     "lib32-libxmu": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxmu.git",
