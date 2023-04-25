@@ -939,7 +939,7 @@
     "lib32-zstd": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-zstd.git",
       "branch": "master",
-      "revision": "c2c3e32685a2a84448249c897f854733f8a7e843"
+      "revision": "11a44824372b6371991d273a2006827d30d8bc21"
     },
     "multilib-devel": {
       "url": "gitea@gitea.artixlinux.org:packagesM/multilib-devel.git",
