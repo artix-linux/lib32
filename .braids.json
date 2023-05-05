@@ -634,7 +634,7 @@
     "lib32-libxi": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxi.git",
       "branch": "master",
-      "revision": "85006834013bc97034163ee5f00d19da651416f3"
+      "revision": "5a1bbb04800da6a9eb990f54fbfee14bc357d76c"
     },
     "lib32-libxinerama": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libxinerama.git",
