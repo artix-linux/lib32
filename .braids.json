@@ -744,7 +744,7 @@
     "lib32-nss": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nss.git",
       "branch": "master",
-      "revision": "2d20c2d0b2839c0e12ca87ac699fde8b9265dd35"
+      "revision": "f818e6684b257b60eae389a21f558ae3811c1597"
     },
     "lib32-nvidia-utils": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-nvidia-utils",
