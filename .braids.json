@@ -909,7 +909,7 @@
     "lib32-vulkan-validation-layers": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vulkan-validation-layers.git",
       "branch": "master",
-      "revision": "f478eb2d983f6b9fbf871a640ebf9401bf8d4e15"
+      "revision": "c359b0ba724c01c97b63035f47e88e8a46379caf"
     },
     "lib32-wavpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wavpack.git",
