@@ -1,2 +1,0 @@
-# lib32-at-spi2-atk
-
