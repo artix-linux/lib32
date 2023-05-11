@@ -906,6 +906,11 @@
       "branch": "master",
       "revision": "f7e17a5b9c099f45f5e671f3e7ca5e2a85d535ea"
     },
+    "lib32-vulkan-validation-layers": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-vulkan-validation-layers.git",
+      "branch": "master",
+      "revision": "f478eb2d983f6b9fbf871a640ebf9401bf8d4e15"
+    },
     "lib32-wavpack": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-wavpack.git",
       "branch": "master",
