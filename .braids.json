@@ -401,6 +401,11 @@
       "branch": "master",
       "revision": "e43358ac3e75a7ee5d63537fe21792fb0f9454b2"
     },
+    "lib32-libmodplug": {
+      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libmodplug.git",
+      "branch": "master",
+      "revision": "230a5c70396b07e506f318d1ed152a0436596a3e"
+    },
     "lib32-libnghttp2": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libnghttp2.git",
       "branch": "master",
