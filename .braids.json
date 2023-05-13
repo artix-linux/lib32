@@ -821,11 +821,6 @@
       "branch": "master",
       "revision": "8bbeca81462d614bb355cec646dc298bb25bf6ac"
     },
-    "lib32-sdl": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sdl.git",
-      "branch": "master",
-      "revision": "dc5f093c946129352a2e976302a5634f0225546a"
-    },
     "lib32-sdl12-compat": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-sdl12-compat.git",
       "branch": "master",
