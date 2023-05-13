@@ -56,11 +56,6 @@
       "branch": "master",
       "revision": "a33f81ac68ce61a25bb208b46d9634f4767938f8"
     },
-    "lib32-celt": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-celt.git",
-      "branch": "master",
-      "revision": "0e60d31f2ea81ad9148834f1efc0c02ec4aba487"
-    },
     "lib32-clang": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-clang.git",
       "branch": "master",
