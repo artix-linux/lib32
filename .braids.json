@@ -89,7 +89,7 @@
     "lib32-db": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-db.git",
       "branch": "master",
-      "revision": "444d22002b18d3fda02d1cd8596530cb0cf30214"
+      "revision": "eb793d242e409f89ec86bcc7e5cc347b46c9c249"
     },
     "lib32-dbus": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-dbus.git",
