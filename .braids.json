@@ -34,7 +34,7 @@
     "lib32-atk": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-atk.git",
       "branch": "master",
-      "revision": "bf1b2eed19bb23540d5361258edb7c1b5e13adec"
+      "revision": "a9c7c641c34aa169360c5f421dc00b2b15b6bb0d"
     },
     "lib32-attr": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-attr.git",
