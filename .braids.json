@@ -279,7 +279,7 @@
     "lib32-libcap": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcap.git",
       "branch": "master",
-      "revision": "1ecee906e0c7a49be1d3a687fb23eef64aabdcc5"
+      "revision": "f4309341a6e7b1e66bff9ddcdf0d4a7dfbf4f240"
     },
     "lib32-libcups": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-libcups.git",
