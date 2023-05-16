@@ -109,7 +109,7 @@
     "lib32-faudio": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-faudio.git",
       "branch": "master",
-      "revision": "93706737a2c939eb6fac7083c037cb800a7ad403"
+      "revision": "456121b5826009bce8780d0fa388f2db2e8c9f8f"
     },
     "lib32-flac": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-flac.git",
