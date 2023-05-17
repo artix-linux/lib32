@@ -21,11 +21,6 @@
       "branch": "master",
       "revision": "d02129630d4940b1abe1c7dfb8d60420780b49bc"
     },
-    "lib32-artix-archlinux-support": {
-      "url": "gitea@gitea.artixlinux.org:packagesL/lib32-artix-archlinux-support.git",
-      "branch": "master",
-      "revision": "00b33c81a82a1663d2def26a5f8d7d0d3d64ca12"
-    },
     "lib32-at-spi2-core": {
       "url": "gitea@gitea.artixlinux.org:packagesL/lib32-at-spi2-core.git",
       "branch": "master",
